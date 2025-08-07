@@ -9,3 +9,7 @@ Linux Commands Screenshots
 
 ![image alt]
 (https://github.com/raksh1912/5214927_Rakshitha_S/tree/55ea6a02a82bd6c8c374c0bc05d5059e006db970/Linux)
+
+Soloearn Certificates
+![image alt]
+(https://github.com/raksh1912/5214927_Rakshitha_S/blob/5a08396c50b426fd25341a031a0f32cf29c4e2eb/C%20Programming/Sololearn%20Certificates/Introduction%20to%20C.jpeg)
